@@ -4,7 +4,7 @@ I am a beginner Front-end Developer. Here is my CV:
 
 - 🔭 I’m currently working as freelancer in web-development.
 - 🌱 I’m currently learning React.
-- 📫 How to reach me: katrinya1@gmail.com
+- 📫 How to reach me: katrinya1@gmail.com, https://t.me/canadakatrin
 - ⚡ Fun fact: A shrimp's heart is in its head.
 
 [![Katsiaryna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatsiarynaPilipets)](https://github.com/KatsiarynaPilipets/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatsiarynaPilipets&layout=compact) 
