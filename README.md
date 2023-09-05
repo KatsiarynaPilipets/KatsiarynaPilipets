@@ -9,3 +9,8 @@ I am a beginner Front-end Developer. Here is my CV:
 
 
 [![Katsiaryna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatsiarynaPilipets)](https://github.com/KatsiarynaPilipets/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatsiarynaPilipets&show=reviews)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatsiarynaPilipets&show_icons=true)
+
