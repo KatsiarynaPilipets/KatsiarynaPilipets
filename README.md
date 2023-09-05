@@ -9,3 +9,15 @@ https://t.me/canadakatrin
 - ⚡ Fun fact: A shrimp's heart is in its head.
 
 [![Katsiaryna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatsiarynaPilipets)](https://github.com/KatsiarynaPilipets/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatsiarynaPilipets&layout=compact) 
+
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/romankh3/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
+</p>
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/romankh3/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=KatsiarynaPilipets&color=DE002D">
+   </a>
+</div>
