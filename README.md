@@ -6,4 +6,6 @@ I am a beginner Front-end Developer. Here is my CV:
 - 🌱 I’m currently learning React.
 - 📫 How to reach me: katrinya1@gmail.com
 - ⚡ Fun fact: A shrimp's heart is in its head.
+
+
 [![Katsiaryna's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatsiarynaPilipets)](https://github.com/KatsiarynaPilipets/github-readme-stats)
