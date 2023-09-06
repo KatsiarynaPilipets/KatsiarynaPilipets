@@ -12,11 +12,6 @@ I am a beginner Front-end Developer. Here is my CV:
    <a href="https://github.com/KatsiarynaPilipets/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatsiarynaPilipets&layout=compact"/></a>
 </p>
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/KatsiarynaPilipets/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=KatsiarynaPilipets&color=DE002D">
-   </a>
-</div>
 
 <p align='center'>
    <a href="www.linkedin.com/in/katherine-pilipets-759682283">
@@ -28,3 +23,9 @@ I am a beginner Front-end Developer. Here is my CV:
 <p align='center'>
 
 - 📫 How to reach me: katrinya1@gmail.com
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/KatsiarynaPilipets/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=KatsiarynaPilipets&color=DE002D">
+   </a>
+</div>
