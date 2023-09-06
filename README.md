@@ -13,6 +13,7 @@ I am a beginner Front-end Developer. Here is my CV:
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatsiarynaPilipets&layout=compact"/></a>
 </p>
 
+
 <p align='center'>
    <a href="www.linkedin.com/in/katherine-pilipets-759682283">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -22,7 +23,9 @@ I am a beginner Front-end Developer. Here is my CV:
    </a>
 <p align='center'>
 
-- 📫 How to reach me: katrinya1@gmail.com
+📫 How to reach me: katrinya1@gmail.com
+
+
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/KatsiarynaPilipets/github-profile-views-counter">
