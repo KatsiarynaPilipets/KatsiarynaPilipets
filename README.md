@@ -21,11 +21,11 @@ I am a beginner Front-end Developer. Here is my CV:
    <a href="https://t.me/canadakatrin">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-<p align='center'>
-
-📫 How to reach me: katrinya1@gmail.com
-
-
+   
+   <p align='center'>
+📫 How to reach me: <a href='katrinya1@gmail.com'>katrinya1@gmail.com</a>
+   </p>
+   
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/KatsiarynaPilipets/github-profile-views-counter">
