@@ -1,6 +1,6 @@
 ### Hi, I'm Katsiaryna 👋
 
-I am a beginner Front-end Developer. Here is my CV: 
+I am a junior Front-end Developer. Here is my CV: 
 
 - 🔭 I’m currently working as freelancer in web-development.
 - 🌱 I’m currently learning React.
@@ -15,7 +15,7 @@ I am a beginner Front-end Developer. Here is my CV:
 
 
 <p align='center'>
-   <a href="www.linkedin.com/in/katherine-pilipets-759682283">
+   <a href="[www.linkedin.com/in/katherine-pilipets-759682283](https://www.linkedin.com/in/katsiaryna-pilipets-759682283/)">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://t.me/canadakatrin">
